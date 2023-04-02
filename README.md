@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/3ec71d83ee6305494692fe3e50a0be6ef3234b418f6da537bda258ef29eef063/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6964722f696d6167652f75706c6f61642f76313630383732343232342f70726f66696c655f62616e6e65722e706e67)]()
 <h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A Backend Developer at Quara Digital Pvt. Ltd.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushguptavikramaditya&label=Profile%20views&color=0e75b6&style=flat" alt="piyushguptavikramaditya" /> </p>
